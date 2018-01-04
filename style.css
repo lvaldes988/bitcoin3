@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    border: 5px solid black;
+    width: 100%;
+    background-color: rgb(214, 229, 236);
+}
+td {
+    width: 15%;
+    height: 3em;
+    border: 2px solid rgb(11, 2, 63);
+    color: purple;
+    font-weight: bold;
+    font-size: 23px;
+    text-align: center;
+}
+
+div{
+    border:1px solid black;
+    margin: 0;
+    height: 24%;
+    width: 24%;
+    z-index: 2;
+}
+
+button {
+    border: 4px ridge magenta;
+    margin-top: 15px;
+    width: 132px;
+    height: 34px;
+}
